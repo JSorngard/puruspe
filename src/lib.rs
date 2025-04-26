@@ -30,7 +30,7 @@ pub use bessel::{
 };
 
 pub mod elliptic;
-pub use elliptic::elliptic_k;
+pub use elliptic::elliptic_integral_k;
 
 // =============================================================================
 // Constants
